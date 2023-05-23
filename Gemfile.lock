@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/excid3/administrate.git
-  revision: 482b455a0bc653dd7af0bdd3683da39b1f1a338b
+  revision: eda2bdb33ae26515581efd483ceb27d10f6e9640
   branch: jumpstart
   specs:
     administrate (0.18.0)
